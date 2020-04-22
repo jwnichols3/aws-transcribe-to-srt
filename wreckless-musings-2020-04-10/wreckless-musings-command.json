@@ -1,0 +1,8 @@
+{
+  "TranscriptionJobName": "musings-2020-04-10-on-2020-04-15", 
+  "LanguageCode": "en-US", 
+  "MediaFormat": "mp4", 
+  "Media": {
+      "MediaFileUri": "s3://jnicamzn-transcribe/Wreckless+Musings+2020-04-10.mp4"
+  }
+}
